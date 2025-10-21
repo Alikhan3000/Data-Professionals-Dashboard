@@ -1,1 +1,1 @@
-# Data-Professionals-Dashboard
+This project presents a visual breakdown of a Data Professionals Survey using Power BI. The dashboard displays key insights, including participants' demographics, favorite programming languages, average salaries by job title and gender, as well as work/life balance and salary satisfaction ratings. Use this dashboard to quickly explore trends and statistics relevant to data professionals.
